@@ -213,7 +213,7 @@
 											<h5 class="m-b-10">@Html.DisplayName("Welcome,  " + User.Identity.GetUserName() + "!")</h5>
 										</div>
 										<ul class="breadcrumb">
-											<li class="breadcrumb-item"><a href="index.html"><i class="feather icon-home"></i></a></li>
+											<li class="breadcrumb-item"><a href="~/Home/Index"><i class="feather icon-home"></i></a></li>
 											<li class="breadcrumb-item"><a href="javascript:">Manage My Courses</a></li>
 										</ul>
 									</div>
@@ -239,6 +239,7 @@
 															<thead>
 																<tr>
 																	<th>Course Name</th>
+																	<th>Student Name</th>
 																	@if (User.IsInRole("Marketing Coordinator"))
 																	{
 																		<th>Delete Course</th>
@@ -252,6 +253,7 @@
 																{
 																	<tr>
 																		<td>@item.Name</td>
+																		<td>@item.Student.UserName</td>
 																		@if (User.IsInRole("Marketing Coordinator"))
 																		{
 																			<td><button class="btn btn-glow-danger">@Html.ActionLink("Delete", "DeleteCourse", new { id = item.Id })</button></td>
