@@ -4,7 +4,17 @@
 > To Do, To Learn, To Archive!
 ---
 
-### Our Resources
+### Table of Contents
 - [Trello](https://trello.com/b/QICgLuLb/comp1640)
 - [Screencast](https://youtu.be/FbD0-qTJtAM)
+- [Group Members](#group-members)
 ---
+
+## Group Members
+- Nguyen Huu Thien (Scrum Master, Information Architect)
+- Dau Xuan Thong (Programmer, Database Designer)
+- Nguyen The Thanh (Product Owner, Programmer)
+- Vo Van Thin (Technical Team Leader, Tester)
+- Do Sy Long (Frontend Developer, Web Designer)
+- Nguyen Quoc Hoan (Frontend Developer, Web Designer)
+- Pham Van Quy (Tester)
