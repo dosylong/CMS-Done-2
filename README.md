@@ -1,7 +1,7 @@
-# Content Management System
+# [COMP1640] Enterprise Web Software Development
 ![Image](https://trello-attachments.s3.amazonaws.com/603deec8b60e6a59a027371c/6058565ec19dc848ddb9edd6/f3a8da35e94210d73aa1636b0ab60d8d/image.png)
 
-> To Do, To Learn, To Archive!
+> This project is a web application that can collect student contributions for an annual university magazine.
 ---
 
 ### Table of Contents
@@ -24,4 +24,4 @@
 
 ## Appendix
 - Before entering CMS system deployment, we also develop Beta version at https://github.com/thanhnguyen662/CMS-Final-2
-#### [Back to top](#back-to-top)
+#### [Back to top](#top)
