@@ -8,6 +8,7 @@
 - [Trello](https://trello.com/b/QICgLuLb/comp1640)
 - [Screencast](https://youtu.be/FbD0-qTJtAM)
 - [Group Members](#group-members)
+- [Appendix](#appendix)
 ---
 
 ## Group Members
@@ -18,3 +19,9 @@
 - Do Sy Long (Frontend Developer, Web Designer)
 - Nguyen Quoc Hoan (Frontend Developer, Web Designer)
 - Pham Van Quy (Tester)
+
+---
+
+## Appendix
+- Before entering CMS system deployment, we also develop Beta version at https://github.com/thanhnguyen662/CMS-Final-2
+#### [Back to top](#back-to-top)
